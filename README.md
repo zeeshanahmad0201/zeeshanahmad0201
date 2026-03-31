@@ -26,4 +26,4 @@
 
 Building in React Native to expand from Flutter  
 Open to full-time remote opportunities  
-[LinkedIn](https://linkedin.com/in/xeeshan-ahmad) · [Email](mailto:hello@xeeshanahmad.com)
+[LinkedIn](https://linkedin.com/in/xeeshan-ahmad) · [Email](mailto:hello@xeeshanahmad.com) · [Website](https://xeeshanahmad.com/)
